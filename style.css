@@ -98,7 +98,7 @@ img{
     background-position: center top;
   }
   #home{
-    background-image: url(images/main-bg.png),linear-gradient:(#c9ffbf,#ffafbd);
+    background-image: url(images/main-bg.png),linear-gradient(#c9ffbf,#ffafbd);
        background-blend-mode: luminosity;  
     min-height:100vh;
   }
