@@ -98,7 +98,7 @@ img{
     background-position: center top;
   }
   #home{
-    background-image: url(/images/main-bg.png),linear-gradient(#c9ffbf,#ffafbd);
+    background-image: url(images/main-bg.png),linear-gradient(#c9ffbf,#ffafbd);
     background-blend-mode: luminosity;  
     min-height:100vh;
   }
@@ -108,7 +108,7 @@ img{
 /*NEWS
 ----------------------*/
 #news{
-  background-image: url(/images/news-bg.jpg);
+  background-image: url(images/news-bg.jpg);
   height: 270px;
   margin-bottom: 40px;
 }
@@ -307,7 +307,7 @@ aside{
 /*ITEM
 -----------------------------*/
 #item{
-  background-image: url(/images/item-bg.jpg);
+  background-image: url(images/item-bg.jpg);
   min-height: 100vh;
 }
 .menu-content{
@@ -348,7 +348,7 @@ aside{
     }
   /*CONTACT---------------------*/
   #contact{
-    background-image: url(/images/contact-bg.jpg);
+    background-image: url(images/contact-bg.jpg);
     min-height: 100vh;
   }
  
