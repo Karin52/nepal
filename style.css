@@ -217,6 +217,10 @@ aside{
   /*モバイル版
   -------------------------------ー*/
   @media(max-width:600px) {
+    .page-header{
+      flex-direction: column;
+      align-items: center;
+    } 
   .page-title{
     font-size: 2.5rem;
   }
