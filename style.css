@@ -249,6 +249,9 @@ aside{
  aside{
   width:100%;
  }
+    .ad{
+    align-items:center
+  } 
  #news.page-title{
   margin-top: 30px;
  }
