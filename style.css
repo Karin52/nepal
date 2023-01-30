@@ -246,10 +246,12 @@ aside{
   flex-direction: column;
  }
  article,
- aside.ad{
+ aside{
   width:100%;
  }
-
+.ad{
+  width:100%;
+  
   } 
  #news.page-title{
   margin-top: 30px;
