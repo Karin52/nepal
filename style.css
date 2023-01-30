@@ -305,7 +305,10 @@ aside{
   .sns-box{
     margin-bottom: 30px;
   }
-
+.button{
+    width: 70%;
+    height: 70%;
+  }
 }
 
 
